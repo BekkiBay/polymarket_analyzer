@@ -1,4 +1,4 @@
-# 🦢 Black Swan Hunter
+# 🦢 Black Swan Hunter | Polymarket
 
 > Automated trading bot for [Polymarket](https://polymarket.com) — hunts for undervalued outcomes using a multi-stage AI pipeline.
 
