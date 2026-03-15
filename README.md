@@ -161,7 +161,7 @@ classify(market)          ← no internet, cached 24h
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/black-swan-hunter.git
+git clone https://github.com/yourusername/polymarket_analyzer
 cd black-swan-hunter
 
 # Create virtual environment
