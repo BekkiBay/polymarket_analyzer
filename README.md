@@ -161,11 +161,11 @@ classify(market)          ← no internet, cached 24h
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/black-swan-hunter.git
-cd black-swan-hunter
+git clone https://github.com/yourusername/polymarket_analyzer
+cd polymarket_analyzer
 
 # Create virtual environment
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
